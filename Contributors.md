@@ -2520,4 +2520,5 @@
 - [Zahid Khan](https://github.com/zahidkhan262)
 - [Shanu Mishra](https://github.com/Shanu-02)
 - [Yusuf Adefolahan](https://github.com/sanxy)
+- [Isaac S](https://github.com/issac5693)
 <!-- prettier-ignore-end -->
